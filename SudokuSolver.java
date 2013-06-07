@@ -1,6 +1,6 @@
 // Author: Arun Gupta
 // Version: 1.0
-//https://github.com/iphoting/SudokuSolver.java/blob/master/SudokuSolver.java
+
 import java.util.Scanner;
 
 public class SudokuSolver {
